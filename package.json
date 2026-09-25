@@ -9,12 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://localhost:26831/cberon/hello_world_ts"
+    "url": "https://github.com/cberon/hello_world_ts.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@types/node": "^26.6.2",
     "typescript": "^7.0.2"
   }
 }
