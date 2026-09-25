@@ -1,2 +1,11 @@
 # hello_world_ts
-sample hello world in typescript
+
+Sample hello world console app in TypeScript built with Node and npm.
+
+## Usage
+
+```bash
+npm install
+npm run build
+npm start
+```
