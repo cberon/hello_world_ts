@@ -1,0 +1,20 @@
+{
+  "name": "hello_world_ts",
+  "version": "1.0.0",
+  "description": "sample hello world in typescript",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://localhost:26831/cberon/hello_world_ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
+}
